@@ -1,7 +1,7 @@
-MutliCrypto Example
-===================
+Mutli-Crypto Example
+====================
 
-Here's an example of a MultiCrypto puzzle:
+Here's an example of a Multi-Crypto puzzle:
 
 
 Decoder Key

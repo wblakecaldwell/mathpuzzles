@@ -1,7 +1,7 @@
 Math Puzzles: Multi-Crypto
 ==========================
 
-MultiCrypto is a simple puzzle generator to help kids work on their multiplication 
+Multi-Crypto is a simple puzzle generator to help kids work on their multiplication 
 and subtraction, while feeling like a spy decoding a secret message. Each puzzle is 
 generated from phrase, where each letter is represented by a math problem in the form of:
 
@@ -15,7 +15,7 @@ to build it for you:
 - DecoderRandom:     returns a random shuffling of all characters from a-z, so if
                      "klcnogdwprftyxqismjvehabzu", then K=1, L=2, C=3
 
-Check out [this example](EXAMPLE.md) of a MultiCrypto puzzle.
+Check out [this example](EXAMPLE.md) of a Multi-Crypto puzzle.
 
 
 PuzzleGenerator

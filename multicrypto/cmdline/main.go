@@ -1,4 +1,4 @@
-// Package main builds a command line version of the MultiCrypto math puzzle.
+// Package main builds a command line version of the Multi-Crypto math puzzle.
 package main
 
 import (
