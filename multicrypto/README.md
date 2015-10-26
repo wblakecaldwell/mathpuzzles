@@ -15,6 +15,8 @@ to build it for you:
 - DecoderRandom:     returns a random shuffling of all characters from a-z, so if
                      "klcnogdwprftyxqismjvehabzu", then K=1, L=2, C=3
 
+Check out [this example](EXAMPLE.md) of a MultiCrypto puzzle.
+
 
 PuzzleGenerator
 ---------------
