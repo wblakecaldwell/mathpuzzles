@@ -132,7 +132,7 @@ func (pg *PuzzleGenerator) GenerateDecoderKey() ([]DecoderKeyCharacter, error) {
 	result := make([]DecoderKeyCharacter, 26)
 	alpha := DecoderAlphabetic() // for the ordering of the output
 	for pos, c := range alpha {
-		index := strings.IndexRune(alpha, c)
+		index := strings.IndexRune(pg.decoder, c)
 		puzzleChar := pg.puzzleCharacterForIndex(index)
 
 		result[pos] = DecoderKeyCharacter{
