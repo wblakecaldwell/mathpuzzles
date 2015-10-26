@@ -9,8 +9,8 @@ learning basic math.
 -----------------------
 
 Multi-Crypto is a simple puzzle generator to help kids work on their multiplication 
-and subtraction, while feeling like a spy decoding a secret message. Each puzzle is 
-generated from phrase, where each letter is represented by a math problem in the form of:
+and subtraction, while feeling like a spy decoding a secret message. A puzzle 
+encodes a phrase, where each letter is represented by a math problem in the form of:
 
     (a x b) - (c x d)
 
