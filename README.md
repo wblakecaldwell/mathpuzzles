@@ -1,8 +1,7 @@
 Math Puzzles for Kids!
 ======================
 
-At some point, this is the beginning of a collection of puzzles for kids
-learning basic math.
+This is the beginning of a collection of puzzles for kids who are learning basic math.
 
 
 [Puzzle #1: Multi-Crypto](multicrypto/)
